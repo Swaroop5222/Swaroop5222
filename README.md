@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swaroop5222" alt="swaroop5222" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/siva-sai-swaroop-yanduri-707520312/" target="blank"><img src=https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Fpng%2F23986970-linkedin-logo-png-linkedin-logo-transparent-png-linkedin-icon-transparent-free-png&psig=AOvVaw1W10zuAyuRHYzHYMxrBW1O&ust=1731912868391000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMCCgK_k4okDFQAAAAAdAAAAABAE" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **C programming language**
 

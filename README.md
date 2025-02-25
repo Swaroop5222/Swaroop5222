@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Siva Sai Swaroop Yanduri</h1>
+<h1 align="center">Hi 👋, I'm Yanduri Siva Sai Swaroop</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swaroop5222&label=Profile%20views&color=0e75b6&style=flat" alt="swaroop5222" /> </p>
@@ -24,6 +24,7 @@
 <a href="https://www.codechef.com/users/swaroop_1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="swaroop_1" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/yanduri siva sai swaroop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yanduri siva sai swaroop" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/swaroop_yanduri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="swaroop_yanduri" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/yandurisnxvs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="yandurisnxvs" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

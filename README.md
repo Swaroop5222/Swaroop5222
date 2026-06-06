@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siva Sai Swaroop Yanduri</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">Computer Science Student | Learning by building Aspiring Software Engineer Curious developer exploring new technologies Growing through code, projects, and collaboration</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swaroop5222&label=Profile%20views&color=0e75b6&style=flat" alt="swaroop5222" /> </p>
 
@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👯 I’m looking to collaborate on **programming projects**
-- 
 - 📫 How to reach me **yanduriswaroop@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

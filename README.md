@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siva Sai Swaroop Yanduri</h1>
-<h3 align="center">Computer Science Student | Learning by building Aspiring Software Engineer Curious developer exploring new technologies Growing through code, projects, and collaboration</h3>
+<h3 align="center">Computer Science Student | Learning by building | Aspiring Software Engineer | Curious developer exploring new technologies Growing through code, projects, and collaboration</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swaroop5222&label=Profile%20views&color=0e75b6&style=flat" alt="swaroop5222" /> </p>
 
